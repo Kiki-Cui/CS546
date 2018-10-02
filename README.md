@@ -1,2 +1,2 @@
-# CS546lab7
+# CS546
 WebProgramming
